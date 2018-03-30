@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Gamebox7724.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B72EFAFDA07956558C8C2262D622F0F41FC92A18</string>
+				<key>dateExpires</key>
+				<string>2018/7/31</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B72EFAFDA07956558C8C2262D622F0F41FC92A18</string>
+						<key>dateExpires</key>
+						<string>2018/7/31</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>SocketRocket.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5UKNVHVY95</string>
+						<key>name</key>
+						<string>XIAMEN SHUNBANG NETWORK TECHNOLOGY CO.,LTD</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>5UKNVHVY95.com.pipaw.gamebox7724</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:qznx67.openlink.cc</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>5UKNVHVY95</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Gamebox7724.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>45cd36c5-333b-46ce-b3c2-0163ed8e5e16</string>
+				<key>name</key>
+				<string>7724_dev_0731</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>5UKNVHVY95</string>
+				<key>name</key>
+				<string>XIAMEN SHUNBANG NETWORK TECHNOLOGY CO.,LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
